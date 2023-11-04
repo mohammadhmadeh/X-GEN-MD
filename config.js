@@ -28,12 +28,12 @@ global.owner = [
   ['96178965440', 'المطور', true]
   ]
 
-global.mods = ['96178965440','96178965440'] //Don't replace this,If you want to add someone add any dev
-global.prems = ['96178965440','96178965440']
-global.nomorbot = '13035008472' //Change it to your own
-global.nomorown = '96178965440' //Change it to your own
-global.namebot = 'ᎥᎿᎯᏨᎻᎥ' //change it to your own
-global.nameown = 'ᎥᎿᎯᏨᎻᎥ' // change it to your own
+global.mods = ['201093459047','201093459047'] //Don't replace this,If you want to add someone add any dev
+global.prems = ['201093459047','201093459047']
+global.nomorbot = '201061758394' //Change it to your own
+global.nomorown = '201093459047' //Change it to your own
+global.namebot = '『👑┇𝚁𝙰𝙸𝙻𝚈┇🤖┇𝙱𝙾𝚃┇👑』' //change it to your own
+global.nameown = '『👑┇𝚁𝙰𝙸𝙻𝚈┇🤖┇𝙱𝙾𝚃┇👑』' // change it to your own
 
 //*============= ==============*/
 
@@ -77,8 +77,8 @@ global.sdc = 'https://chat.whatsapp.com/IgAuhjpikBq4HZoMPuoJqs' //Fill it out us
 global.snh = 'https://nhentai.net/g/HaramTod' //Hmmm, This is up to you to fill in :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '085736178354' //Nomor Danamu
-global.ppulsa = '085736178354' //Nomor SimCard Yang Kamu Pake
+global.pdana = '201061758394' //Nomor Danamu
+global.ppulsa = '201061758394' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
 
 
