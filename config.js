@@ -25,16 +25,15 @@ import moment from 'moment-timezone'
 
 /*==============USER-INFO==============*/
 global.owner = [
-  ['8801853262586', 'ꜱʟᴀꜱʜᴇʀ ᴏꜰꜰɪᴄɪᴀʟ', true], 
-  ['put your number', 'your-name', true] 
-] 
+  ['96178965440', 'المطور', true]
+  ]
 
-global.mods = ['put-your-number','8801853262586'] //Don't replace this,If you want to add someone add any dev
-global.prems = ['put-premium-user-number','']
-global.nomorbot = 'your-bot-number' //Change it to your own
-global.nomorown = 'owner-number' //Change it to your own
-global.namebot = 'bot-name' //change it to your own
-global.nameown = 'owner-name' // change it to your own
+global.mods = ['96178965440','96178965440'] //Don't replace this,If you want to add someone add any dev
+global.prems = ['96178965440','96178965440']
+global.nomorbot = '13035008472' //Change it to your own
+global.nomorown = '96178965440' //Change it to your own
+global.namebot = 'ᎥᎿᎯᏨᎻᎥ' //change it to your own
+global.nameown = 'ᎥᎿᎯᏨᎻᎥ' // change it to your own
 
 //*============= ==============*/
 
@@ -74,7 +73,7 @@ let wibh = moment.tz('Asia/Dhaka').format('HH')
 global.sig = 'https://instagram.com/sla.sher_' //Link Instagrammu
 global.sgh = 'https://github.com/X-S-L-A-S-H-E-R/X-GEN-MD' //Link Githubmu
 global.sgc = 'https://chat.whatsapp.com/Iah40dk4H2EClu9HqlCxdH'
-global.sdc = '-' //Fill it out using the Discord link, if there is one, just leave it
+global.sdc = 'https://chat.whatsapp.com/IgAuhjpikBq4HZoMPuoJqs' //Fill it out using the Discord link, if there is one, just leave it
 global.snh = 'https://nhentai.net/g/HaramTod' //Hmmm, This is up to you to fill in :v
 
 /*============== PAYMENT ==============*/
